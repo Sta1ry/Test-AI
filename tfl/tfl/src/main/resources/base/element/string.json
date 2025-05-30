@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "TflAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "TflAbility_label",
+      "value": "label"
+    }
+  ]
+}
